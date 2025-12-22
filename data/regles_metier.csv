@@ -1,0 +1,7 @@
+id;priorite ;regle 
+R1;Low;Un seul parfum doit être produit par semaine sauf en cas exceptionnel validé
+R2;High;Un changement de parfum nécessite obligatoirement 8 heures de nettoyage CIP
+R3;High;Les quantités demandées par la prévision doivent être respectées à 98%
+R4;High;La capacité maximale de la machine ne doit jamais être dépassée
+R5;Medium;Il faut minimiser le nombre de changements de format
+R6;High;En cas de surcharge on peut faire un cycle long de deux semaines consécutives

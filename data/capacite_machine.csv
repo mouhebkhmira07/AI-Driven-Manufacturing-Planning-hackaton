@@ -1,0 +1,6 @@
+machine;format_g;shift;nb_heures_shift;capacite_shift
+WOLF;35;3;8;200
+ROVEMA;300;2;8;1000
+ROVEMA;600;2;8;600
+ROVEMA;900;2;8;1000
+ROVEMA;140;2;8;1000
